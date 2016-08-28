@@ -1,4 +1,4 @@
-package strategypattern.structure;
+package strategypattern;
 
 //具体策略类
 public class ConcreteStrategyB implements IStrategy {

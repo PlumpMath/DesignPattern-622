@@ -1,4 +1,4 @@
-package strategypattern.structure;
+package strategypattern;
 
 public class Client {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package strategypattern.structure;
+package strategypattern;
 
 //³éÏó²ßÂÔ
 public interface IStrategy {

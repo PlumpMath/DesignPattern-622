@@ -1,4 +1,4 @@
-package strategypattern.structure;
+package strategypattern;
 
 //环境角色类
 public class Context {
