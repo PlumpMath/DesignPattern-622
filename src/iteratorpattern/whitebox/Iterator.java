@@ -1,4 +1,4 @@
-package iterator.blackbox;
+package iteratorpattern.whitebox;
 
 public interface Iterator {
 	/**

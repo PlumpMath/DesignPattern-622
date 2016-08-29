@@ -1,4 +1,4 @@
-package iterator.whitebox;
+package iteratorpattern.whitebox;
 
 public class Client {
 

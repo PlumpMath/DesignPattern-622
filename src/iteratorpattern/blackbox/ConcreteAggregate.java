@@ -1,4 +1,4 @@
-package iterator.blackbox;
+package iteratorpattern.blackbox;
 
 public class ConcreteAggregate extends Aggregate {
 

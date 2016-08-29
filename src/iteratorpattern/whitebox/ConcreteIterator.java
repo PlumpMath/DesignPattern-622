@@ -1,4 +1,4 @@
-package iterator.whitebox;
+package iteratorpattern.whitebox;
 
 public class ConcreteIterator implements Iterator {
 	// 持有被迭代的具体的聚合对象

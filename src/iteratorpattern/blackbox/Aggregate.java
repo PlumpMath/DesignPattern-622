@@ -1,4 +1,4 @@
-package iterator.blackbox;
+package iteratorpattern.blackbox;
 
 public abstract class Aggregate {
 	/**
